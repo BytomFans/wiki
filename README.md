@@ -1,2 +1,2 @@
 # wiki
-BytomFans知识库
+BytomFans wiki
