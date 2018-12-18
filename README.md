@@ -1,6 +1,6 @@
 # Awesome Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
->  收集所有区块链(BlockChain)技术开发相关资料
+>  比原链技术开发相关资料
 
 *Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)*
 
@@ -31,7 +31,7 @@
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 - [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
 
-### Ethereum 以太坊进阶
+### Bytom 比原链进阶
 
 - [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) 以太坊智能合约入门概念
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
@@ -43,17 +43,6 @@
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
 
-
-### Fabric 联盟链进阶
-
-- [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
-- [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
-- [Blockchain区块链架构设计之三：Hyperledger Fabric介绍](https://zhuanlan.zhihu.com/p/23947372)
-- [Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计](https://zhuanlan.zhihu.com/p/24605987)
-- [Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考](https://zhuanlan.zhihu.com/p/25061575)
-- [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
-- [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
-- [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
 ## TUTORIAL 教程
 
